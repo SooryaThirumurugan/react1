@@ -1,0 +1,20 @@
+.body{
+    width: 350px;
+    background-color:rgb(111, 127, 88);
+
+    
+}
+.h1{
+    font-size: 50px;
+    text-shadow: black 2px 1px;
+}
+
+.label{
+    text-align: left;
+    text-shadow: black 1px 1px;
+}
+
+.container{
+    padding: 50px;
+}
+
